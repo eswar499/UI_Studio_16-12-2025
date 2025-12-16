@@ -1,0 +1,6 @@
+{
+  "Name": "Second_Day_Practice",
+  "ProjectType": "Process",
+  "Description": "work flows(sequence, flowcharts, state machine)",
+  "MainFile": "Main.xaml"
+}
